@@ -1,4 +1,4 @@
 # testing
 Just for testing purposes!!
 
-This github thins is amazing"
+This github thing is amazing
